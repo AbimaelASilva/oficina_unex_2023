@@ -19,7 +19,7 @@ class OficinaUnexApp extends StatelessWidget {
         ),
         useMaterial3: true,
       ),
-      initialRoute: '/playerTemplate',
+      initialRoute: '/',
       routes: proRoutes,
     );
   }
